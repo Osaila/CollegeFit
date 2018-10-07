@@ -1,0 +1,1523 @@
+1538870160229	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.awcF51FAPpi5"
+1538870163244	Marionette	INFO	Listening on port 42501
+1538870163352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538870163433	Marionette	DEBUG	[2147483649] Frame script loaded
+1538870163440	Marionette	DEBUG	[2147483649] Frame script registered
+1538870163484	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538870164160	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538870168002	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/
+1538870170315	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.niche.com/colleges/penn-state/
+1538870170327	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1538870170810	Marionette	INFO	Stopped listening on port 42501
+1538870187144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.O2QU652I8DTA"
+1538870189337	Marionette	INFO	Listening on port 39511
+1538870189357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538870189426	Marionette	DEBUG	[2147483649] Frame script loaded
+1538870189435	Marionette	DEBUG	[2147483649] Frame script registered
+1538870189472	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538870189969	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538870194577	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/
+1538870195641	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/
+1538870237476	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9SescZtdcDNK"
+1538870239629	Marionette	INFO	Listening on port 44411
+1538870239710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538870239786	Marionette	DEBUG	[2147483649] Frame script loaded
+1538870239838	Marionette	DEBUG	[2147483649] Frame script registered
+1538870239918	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538870240536	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538870245308	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538870247491	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/
+1538870381714	Marionette	INFO	Stopped listening on port 44411
+1538872600691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kwWpSAbOmCVM"
+1538872603047	Marionette	INFO	Listening on port 39835
+1538872603105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538872603170	Marionette	DEBUG	[2147483649] Frame script loaded
+1538872603174	Marionette	DEBUG	[2147483649] Frame script registered
+1538872603200	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538872603817	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538872608554	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538872610052	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/
+
+(/usr/lib/firefox/firefox:12180): dconf-WARNING **: 20:37:46.691: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+1538872677149	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1DZ4xJj5uIOJ"
+1538872679398	Marionette	INFO	Listening on port 38883
+1538872679458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538872679526	Marionette	DEBUG	[2147483649] Frame script loaded
+1538872679536	Marionette	DEBUG	[2147483649] Frame script registered
+1538872679580	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538872680246	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1538872681631	Marionette	INFO	Stopped listening on port 39835
+1538872683029	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.niche.com/colleges/penn-state/
+1538872683031	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1538872685664	Marionette	INFO	Stopped listening on port 38883
+1538872687503	Marionette	INFO	Stopped listening on port 39511
+1538872688026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.B1rPtGfUbPuQ"
+1538872690137	Marionette	INFO	Listening on port 46707
+1538872690239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538872690324	Marionette	DEBUG	[2147483649] Frame script loaded
+1538872690373	Marionette	DEBUG	[2147483649] Frame script registered
+1538872690424	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538872690896	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538872695067	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538872698559	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/
+1538872921724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1syog9hPiemj"
+1538872923905	Marionette	INFO	Listening on port 43769
+1538872923937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538872924009	Marionette	DEBUG	[2147483649] Frame script loaded
+1538872924011	Marionette	DEBUG	[2147483649] Frame script registered
+1538872924032	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538872924670	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538872928753	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/
+1538872929271	Marionette	INFO	Stopped listening on port 46707
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538872931158	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/
+1538873781484	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZUsJMW0KTL7H"
+1538873783547	Marionette	INFO	Listening on port 40883
+1538873783598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538873783666	Marionette	DEBUG	[2147483649] Frame script loaded
+1538873783669	Marionette	DEBUG	[2147483649] Frame script registered
+1538873783718	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538873784293	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538873790239	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538873791914	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/
+1538873813031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tx2sCynQNYIV"
+1538873815229	Marionette	INFO	Listening on port 35217
+1538873815244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538873815306	Marionette	DEBUG	[2147483649] Frame script loaded
+1538873815315	Marionette	DEBUG	[2147483649] Frame script registered
+1538873815334	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538873815913	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538873819531	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/
+1538873820629	Marionette	INFO	Stopped listening on port 43769
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538873822912	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/
+1538873844826	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YJE4lKSoYrkh"
+1538873847069	Marionette	INFO	Listening on port 35649
+1538873847136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538873847200	Marionette	DEBUG	[2147483649] Frame script loaded
+1538873847239	Marionette	DEBUG	[2147483649] Frame script registered
+1538873847292	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538873847866	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538873850053	Marionette	INFO	Stopped listening on port 40883
+1538873850643	Marionette	INFO	Stopped listening on port 35217
+1538873852728	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538873855564	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/
+1538874033794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0eoyfuqPXzOF"
+1538874035093	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CBrTuB3Mb50U"
+1538874036268	Marionette	INFO	Listening on port 44829
+1538874036311	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538874036395	Marionette	DEBUG	[2147483649] Frame script loaded
+1538874036397	Marionette	DEBUG	[2147483649] Frame script registered
+1538874036436	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538874037774	Marionette	INFO	Listening on port 33701
+1538874037808	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538874037870	Marionette	DEBUG	[2147483649] Frame script loaded
+1538874037882	Marionette	DEBUG	[2147483649] Frame script registered
+1538874037924	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538874038931	Marionette	INFO	Stopped listening on port 35649
+1538874038990	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538874038991	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1538874038996	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1538874039305	Marionette	INFO	Stopped listening on port 44829
+1538874041224	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538874044473	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538874047126	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/
+1538874179456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0Y3zYJub3mRi"
+1538874181521	Marionette	INFO	Listening on port 43183
+1538874181567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538874181653	Marionette	DEBUG	[2147483649] Frame script loaded
+1538874181660	Marionette	DEBUG	[2147483649] Frame script registered
+1538874181693	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538874182290	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538874185106	Marionette	INFO	Stopped listening on port 33701
+1538874188084	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538874189993	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/
+1538874601038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.W0Q2prSvi4KB"
+1538874603169	Marionette	INFO	Listening on port 43071
+1538874603259	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538874603334	Marionette	DEBUG	[2147483649] Frame script loaded
+1538874603380	Marionette	DEBUG	[2147483649] Frame script registered
+1538874603428	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538874604086	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538874604694	Marionette	INFO	Stopped listening on port 43183
+1538874608223	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538874610505	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/
+1538874610703	Marionette	INFO	Stopped listening on port 43071
+[Parent 14677, Gecko_IOThread] WARNING: pipe error (46): Connection reset by peer: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538874629759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.o1efMbviHqnR"
+1538874631903	Marionette	INFO	Listening on port 41817
+1538874631997	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538874632074	Marionette	DEBUG	[2147483649] Frame script loaded
+1538874632075	Marionette	DEBUG	[2147483649] Frame script registered
+1538874632171	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538874632703	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538874638770	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538874642099	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/
+1538874644881	Marionette	INFO	Stopped listening on port 41817
+[Parent 14909, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538874757461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WHSbqNvSTKdD"
+1538874759520	Marionette	INFO	Listening on port 43275
+1538874759578	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538874759648	Marionette	DEBUG	[2147483649] Frame script loaded
+1538874759654	Marionette	DEBUG	[2147483649] Frame script registered
+1538874759699	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538874760230	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538874767089	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/
+1538874768003	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/
+1538874768471	Marionette	INFO	Stopped listening on port 43275
+[Parent 15135, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538875177584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZVMQSM3TzdRK"
+1538875179676	Marionette	INFO	Listening on port 39387
+1538875179698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538875179764	Marionette	DEBUG	[2147483649] Frame script loaded
+1538875179766	Marionette	DEBUG	[2147483649] Frame script registered
+1538875179804	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538875180488	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538875189548	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/
+1538875190716	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1538875199692	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/
+1538875199823	Marionette	INFO	Stopped listening on port 39387
+[Parent 15386, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538875610820	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.i5z5PFKIt289"
+1538875612950	Marionette	INFO	Listening on port 37275
+1538875613036	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538875613095	Marionette	DEBUG	[2147483649] Frame script loaded
+1538875613147	Marionette	DEBUG	[2147483649] Frame script registered
+1538875613230	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538875613795	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538875619595	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538875621316	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538875706248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Fw4AbXI70N5a"
+1538875708343	Marionette	INFO	Listening on port 38391
+1538875708368	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538875708442	Marionette	DEBUG	[2147483649] Frame script loaded
+1538875708445	Marionette	DEBUG	[2147483649] Frame script registered
+1538875708490	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538875709019	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538875711851	Marionette	INFO	Stopped listening on port 37275
+1538875712816	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538875714683	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538876068705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VjYeABqj1dvi"
+1538876070684	Marionette	INFO	Listening on port 39579
+1538876070717	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538876070801	Marionette	DEBUG	[2147483649] Frame script loaded
+1538876070803	Marionette	DEBUG	[2147483649] Frame script registered
+1538876070893	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538876072704	Marionette	INFO	Stopped listening on port 38391
+1538876073393	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538876077051	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+1538876077565	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538876078094	Marionette	INFO	Stopped listening on port 39579
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1538876779099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lCUpHEhOsa0G"
+1538876781184	Marionette	INFO	Listening on port 40435
+1538876781212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538876781285	Marionette	DEBUG	[2147483649] Frame script loaded
+1538876781292	Marionette	DEBUG	[2147483649] Frame script registered
+1538876781325	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538876781883	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538876788633	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+1538876789314	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538876789371	Marionette	INFO	Stopped listening on port 40435
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 16628, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538876799428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9cIYfCDpf9OM"
+1538876801521	Marionette	INFO	Listening on port 37721
+1538876801539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538876801602	Marionette	DEBUG	[2147483649] Frame script loaded
+1538876801617	Marionette	DEBUG	[2147483649] Frame script registered
+1538876801652	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538876802156	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538876805723	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+1538876806320	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538876819837	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LN9Mu6yUfYot"
+1538876821620	Marionette	INFO	Stopped listening on port 37721
+1538876822091	Marionette	INFO	Listening on port 39179
+1538876822157	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538876822219	Marionette	DEBUG	[2147483649] Frame script loaded
+1538876822227	Marionette	DEBUG	[2147483649] Frame script registered
+1538876822364	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538876823007	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538876828764	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+1538876830184	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538876842667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ij2kGQIXI4Cc"
+1538876844706	Marionette	INFO	Listening on port 41189
+1538876844780	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538876844848	Marionette	DEBUG	[2147483649] Frame script loaded
+1538876844850	Marionette	DEBUG	[2147483649] Frame script registered
+1538876844878	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538876845398	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538876850356	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+1538876850943	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538876876178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.h82Ck9ssmEE0"
+1538876878250	Marionette	INFO	Listening on port 36475
+1538876878294	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538876878375	Marionette	DEBUG	[2147483649] Frame script loaded
+1538876878382	Marionette	DEBUG	[2147483649] Frame script registered
+1538876878419	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538876878909	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538876882061	Marionette	INFO	Stopped listening on port 39179
+1538876883970	Marionette	INFO	Stopped listening on port 41189
+1538876884024	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+1538876884813	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538876884854	Marionette	INFO	Stopped listening on port 36475
+1538876924843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RiZOgK7Iodyy"
+1538876926891	Marionette	INFO	Listening on port 37323
+1538876926966	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538876927040	Marionette	DEBUG	[2147483649] Frame script loaded
+1538876927042	Marionette	DEBUG	[2147483649] Frame script registered
+1538876927071	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538876927639	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538876928516	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.niche.com/colleges/penn-state/reviews/
+1538876928518	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 17735, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538876933350	Marionette	INFO	Stopped listening on port 37323
+1538876938079	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gPycpHTl2taW"
+1538876940734	Marionette	INFO	Listening on port 42015
+1538876940814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538876940903	Marionette	DEBUG	[2147483649] Frame script loaded
+1538876940905	Marionette	DEBUG	[2147483649] Frame script registered
+1538876940967	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538876941468	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538876949149	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+1538876949768	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538876949827	Marionette	INFO	Stopped listening on port 42015
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1538876997005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pCOUs6ZxnM9y"
+1538876999066	Marionette	INFO	Listening on port 41277
+1538876999128	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538876999202	Marionette	DEBUG	[2147483649] Frame script loaded
+1538876999204	Marionette	DEBUG	[2147483649] Frame script registered
+1538876999235	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538876999823	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538877007907	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+1538877008530	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538877018753	Marionette	INFO	Stopped listening on port 41277
+1538877020486	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RA2adr76dQr9"
+1538877022580	Marionette	INFO	Listening on port 38961
+1538877022602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538877022664	Marionette	DEBUG	[2147483649] Frame script loaded
+1538877022682	Marionette	DEBUG	[2147483649] Frame script registered
+1538877022713	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538877023221	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538877027357	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+1538877027671	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538877027817	Marionette	INFO	Stopped listening on port 38961
+1538877294845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6T61DiVfkW85"
+1538877296857	Marionette	INFO	Listening on port 32983
+1538877296960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538877297021	Marionette	DEBUG	[2147483649] Frame script loaded
+1538877297024	Marionette	DEBUG	[2147483649] Frame script registered
+1538877297051	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538877297566	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538877304041	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+1538877304651	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538877304732	Marionette	INFO	Stopped listening on port 32983
+1538877388341	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dErrCqifpbh9"
+1538877390531	Marionette	INFO	Listening on port 46739
+1538877390551	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538877390612	Marionette	DEBUG	[2147483649] Frame script loaded
+1538877390614	Marionette	DEBUG	[2147483649] Frame script registered
+1538877390651	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538877391196	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538877394312	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+1538877395831	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538877395901	Marionette	INFO	Stopped listening on port 46739
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538877426611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Q40Vf1b4gel9"
+1538877428626	Marionette	INFO	Listening on port 42291
+1538877428727	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538877428797	Marionette	DEBUG	[2147483649] Frame script loaded
+1538877428804	Marionette	DEBUG	[2147483649] Frame script registered
+1538877428846	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538877429484	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538877432479	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+1538877433420	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538877433460	Marionette	INFO	Stopped listening on port 42291
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1538877460311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hlIUVE5YLV9T"
+1538877462331	Marionette	INFO	Listening on port 37423
+1538877462427	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538877462492	Marionette	DEBUG	[2147483649] Frame script loaded
+1538877462499	Marionette	DEBUG	[2147483649] Frame script registered
+1538877462547	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538877463056	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538877469280	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+1538877470190	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538877470239	Marionette	INFO	Stopped listening on port 37423
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1538877493602	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.taQHMJCeEN9E"
+1538877495588	Marionette	INFO	Listening on port 40819
+1538877495618	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538877495681	Marionette	DEBUG	[2147483649] Frame script loaded
+1538877495690	Marionette	DEBUG	[2147483649] Frame script registered
+1538877495726	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538877498318	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538877503000	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538877504185	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538877504213	Marionette	INFO	Stopped listening on port 40819
+1538877525687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kXmxNE5Vlhrj"
+1538877527822	Marionette	INFO	Listening on port 39967
+1538877527909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538877527975	Marionette	DEBUG	[2147483649] Frame script loaded
+1538877527977	Marionette	DEBUG	[2147483649] Frame script registered
+1538877528029	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538877528621	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538877534757	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538877535943	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538877535999	Marionette	INFO	Stopped listening on port 39967
+[Parent 19642, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538877552011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.22lrb2VrEy6U"
+1538877554136	Marionette	INFO	Listening on port 44607
+1538877554221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538877554286	Marionette	DEBUG	[2147483649] Frame script loaded
+1538877554288	Marionette	DEBUG	[2147483649] Frame script registered
+1538877554320	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538877554779	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538877561177	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+1538877562206	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1538877562250	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538877562312	Marionette	INFO	Stopped listening on port 44607
+1538877612154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.b9ikILDFCI0v"
+1538877614217	Marionette	INFO	Listening on port 41727
+1538877614270	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538877614349	Marionette	DEBUG	[2147483649] Frame script loaded
+1538877614360	Marionette	DEBUG	[2147483649] Frame script registered
+1538877614390	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538877614893	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538877619827	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538877621148	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538877621203	Marionette	INFO	Stopped listening on port 41727
+[Parent 20057, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538877757212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BfvDBPA8nGmg"
+1538877759297	Marionette	INFO	Listening on port 34487
+1538877759323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538877759406	Marionette	DEBUG	[2147483649] Frame script loaded
+1538877759410	Marionette	DEBUG	[2147483649] Frame script registered
+1538877759441	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538877761000	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538877765544	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538877768692	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538877768757	Marionette	INFO	Stopped listening on port 34487
+[Parent 20377, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 632))
+1538877889064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FjDu9YqFeTMB"
+1538877891159	Marionette	INFO	Listening on port 37817
+1538877891178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538877891238	Marionette	DEBUG	[2147483649] Frame script loaded
+1538877891240	Marionette	DEBUG	[2147483649] Frame script registered
+1538877891266	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538877891796	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538877902882	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+1538877903450	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538877903570	Marionette	INFO	Stopped listening on port 37817
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 632))
+1538877944817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.atTAqo3WRNKV"
+1538877946880	Marionette	INFO	Listening on port 37921
+1538877946927	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538877947006	Marionette	DEBUG	[2147483649] Frame script loaded
+1538877947015	Marionette	DEBUG	[2147483649] Frame script registered
+1538877947053	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538877947607	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538877950326	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538877952085	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538877952136	Marionette	INFO	Stopped listening on port 37921
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1538878404033	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5RNhBlwMSBks"
+1538878406077	Marionette	INFO	Listening on port 39707
+1538878406152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538878406222	Marionette	DEBUG	[2147483649] Frame script loaded
+1538878406224	Marionette	DEBUG	[2147483649] Frame script registered
+1538878406261	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538878406856	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538878412453	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+1538878412838	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538878412976	Marionette	INFO	Stopped listening on port 39707
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1538880346107	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.glhbhMCj41s9"
+1538880348313	Marionette	INFO	Listening on port 34247
+1538880348418	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538880348504	Marionette	DEBUG	[2147483649] Frame script loaded
+1538880348525	Marionette	DEBUG	[2147483649] Frame script registered
+1538880348587	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538880349130	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538880357036	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+1538880358454	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538880377481	Marionette	INFO	Stopped listening on port 34247
+1538880589557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1d9xNQDmSL56"
+1538880591639	Marionette	INFO	Listening on port 43423
+1538880591670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538880591733	Marionette	DEBUG	[2147483649] Frame script loaded
+1538880591743	Marionette	DEBUG	[2147483649] Frame script registered
+1538880591782	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538880592350	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538880597203	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538880598703	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538880653491	Marionette	INFO	Stopped listening on port 43423
+1538880671260	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SJjz1fFCW1V5"
+1538880673397	Marionette	INFO	Listening on port 35325
+1538880673483	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538880673569	Marionette	DEBUG	[2147483649] Frame script loaded
+1538880673595	Marionette	DEBUG	[2147483649] Frame script registered
+1538880673654	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538880674202	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538880680850	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+1538880681231	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538880694338	Marionette	INFO	Stopped listening on port 35325
+1538880915685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wqmXg2RsORXl"
+1538880917844	Marionette	INFO	Listening on port 36145
+1538880917908	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538880917981	Marionette	DEBUG	[2147483649] Frame script loaded
+1538880917994	Marionette	DEBUG	[2147483649] Frame script registered
+1538880918106	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538880918640	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538880924439	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538880927246	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538881007559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jlfpQVlJf36H"
+1538881009722	Marionette	INFO	Listening on port 39097
+1538881009774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538881009855	Marionette	DEBUG	[2147483649] Frame script loaded
+1538881009862	Marionette	DEBUG	[2147483649] Frame script registered
+1538881009948	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538881010205	Marionette	INFO	Stopped listening on port 36145
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538881010592	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538881017831	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+1538881018578	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538881321996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.f4OI3yNP0pJ6"
+1538881324106	Marionette	INFO	Listening on port 35921
+1538881324218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538881324319	Marionette	DEBUG	[2147483649] Frame script loaded
+1538881324378	Marionette	DEBUG	[2147483649] Frame script registered
+1538881324446	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538881324973	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538881325662	Marionette	INFO	Stopped listening on port 39097
+1538881327920	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538881329153	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538881466549	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TZLRbe3BgvsI"
+1538881468717	Marionette	INFO	Listening on port 36563
+1538881468758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538881468824	Marionette	DEBUG	[2147483649] Frame script loaded
+1538881468826	Marionette	DEBUG	[2147483649] Frame script registered
+1538881468864	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538881469372	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538881477196	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+1538881477946	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538881513606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EDWUmDgHZdmr"
+1538881515721	Marionette	INFO	Listening on port 33713
+1538881515825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538881515888	Marionette	DEBUG	[2147483649] Frame script loaded
+1538881515894	Marionette	DEBUG	[2147483649] Frame script registered
+1538881515928	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538881516502	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538881519147	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+1538881519615	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538881520350	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538881521231	Marionette	INFO	Stopped listening on port 35921
+1538881521908	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538881521918	Marionette	INFO	Stopped listening on port 36563
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538881723504	Marionette	DEBUG	[2147483656] Frame script loaded
+1538881723519	Marionette	DEBUG	[2147483656] Frame script registered
+1538881723584	Marionette	DEBUG	[4294967297] Frame script loaded
+1538881723585	Marionette	DEBUG	[4294967297] Frame script registered
+[Parent 23803, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538882522732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2Kl5YPydByyk"
+1538882524826	Marionette	INFO	Listening on port 44833
+1538882524846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538882524928	Marionette	DEBUG	[2147483649] Frame script loaded
+1538882524929	Marionette	DEBUG	[2147483649] Frame script registered
+1538882524957	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538882525548	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538882530429	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538882531687	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538882543245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yTWtBfZO1xN3"
+1538882545253	Marionette	INFO	Listening on port 40275
+1538882545358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538882545432	Marionette	DEBUG	[2147483649] Frame script loaded
+1538882545433	Marionette	DEBUG	[2147483649] Frame script registered
+1538882545472	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538882546090	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538882550916	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538882552692	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538882553266	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538882553716	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538882554242	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538882554612	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882554972	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882555273	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882555598	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882555913	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882556263	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882556597	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882556966	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882557276	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882557594	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882557981	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882558310	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882558635	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882559011	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882559342	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882559657	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882559997	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882560478	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882560882	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882561270	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882561622	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882562107	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882562563	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882562939	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882563350	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882563763	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.niche.com/colleges/penn-state/reviews/
+1538882563765	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.niche.com/colleges/penn-state/reviews/
+1538882563785	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1538882563786	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1538882563787	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1538882563788	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1538882563793	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1538882563794	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483671
+1538882563794	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483674
+1538882563794	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483677
+1538882563795	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1538882563795	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1538882563796	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1538882563796	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+[Parent 24443, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538882563993	Marionette	INFO	Stopped listening on port 40275
+1538882565826	Marionette	INFO	Stopped listening on port 44833
+1538882569597	Marionette	INFO	Stopped listening on port 33713
+1538882632914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jFLGiAHcVaIK"
+1538882635191	Marionette	INFO	Listening on port 37633
+1538882635231	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538882635320	Marionette	DEBUG	[2147483649] Frame script loaded
+1538882635323	Marionette	DEBUG	[2147483649] Frame script registered
+1538882635419	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538882636249	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538882641173	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/penn-state/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538882642775	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1538882642808	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/penn-state/reviews/
+1538882643455	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538882643906	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538882644282	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538882644653	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882645062	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882645385	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882645704	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882645977	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882646272	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882646567	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882646907	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882647237	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882647555	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882647886	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882648242	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882648588	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882648897	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882649348	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882649908	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882650308	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882650673	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882651189	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882651572	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882652008	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882652499	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882652878	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882653226	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882653627	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882653968	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882654334	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882654696	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882655069	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882655413	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882655815	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882656370	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882656817	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882657151	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882657688	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882658060	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882658470	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882658879	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882659230	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882659582	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882659932	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882660298	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882660701	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882661086	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882661499	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882661973	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882662411	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882662821	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882663299	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882663768	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882664188	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882664566	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882664914	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882665331	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882665716	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882666135	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882666565	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882666926	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882667510	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882667898	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882668376	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882668827	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882669269	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882669712	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882670194	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882670617	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882671108	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882671500	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882671908	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882672351	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882672727	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882673137	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882673532	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882673872	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882674275	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882674663	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882675056	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882675431	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882675976	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882676410	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882676880	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882677314	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882677742	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882678139	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882678677	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882679189	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882679625	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882680064	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882680487	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882680881	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882681307	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882681740	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882682210	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882682642	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882683117	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882683549	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882684084	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882684595	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882685101	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882685592	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882686047	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882686525	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882687162	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882687609	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882688042	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882688566	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882689011	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882689412	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882689832	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882690350	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882690803	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882691254	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882691763	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882692181	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882692727	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882693284	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882693829	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882694351	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882694906	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882695386	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882696039	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882696576	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882697043	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882697514	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882697992	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882698458	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882698889	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882699391	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882699855	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882700344	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882700801	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882701446	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882701960	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882702624	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882703188	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882703722	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882704215	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882704724	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882705262	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882705766	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882706416	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882706932	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882707512	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882708056	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882708562	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882709051	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882709552	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882710053	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882710523	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882711087	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882711727	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882712244	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882712833	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882713400	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882713917	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882714445	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882714947	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882715598	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882716143	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882716668	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882717171	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882717660	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882718162	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882718639	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882719116	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882719618	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882720191	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882720718	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882721363	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882721999	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882722633	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882723170	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882723746	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882724300	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882724865	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882725448	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882726027	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882726617	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882727234	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882727826	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882728390	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882728925	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882729461	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882730004	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882730559	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882731103	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882731615	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882732110	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882732742	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882733257	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882733922	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882734578	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882735125	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882735740	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882736356	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882736968	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882737523	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882738090	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882738679	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882739279	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882739890	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882740503	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882741068	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882741798	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882742343	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882742940	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882743553	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882744161	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882744732	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882745325	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882745909	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882746550	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882747214	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882747882	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882748569	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882749137	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882749738	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882750389	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882751006	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882751599	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882752298	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882752943	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882753642	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882754301	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882754912	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882755518	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882756147	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882756766	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882757529	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882758147	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882758773	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882759414	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882759992	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882760634	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882761417	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882762048	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882762720	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882763391	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882764077	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882764759	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882765395	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882766052	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882766734	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882767414	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882768234	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882768902	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882769540	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882770187	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882770834	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882771489	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882772111	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882772759	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882773371	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882774055	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882774791	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882775569	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882776327	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882777119	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882777801	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882778520	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882779250	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882779928	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882780619	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882781318	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882782016	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882782725	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882783491	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882784213	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882784954	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882785651	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882786353	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882786982	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882787652	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882788301	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882789044	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882789863	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882790823	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882791520	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882792230	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882793122	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882793814	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882794549	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882795281	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882796008	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882796759	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882797491	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882798481	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882799194	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882799877	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882800610	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882801280	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882801977	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882802675	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882803458	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882804163	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882805099	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882805914	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882806690	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882807400	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882808144	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882808907	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882809592	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882810325	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882811125	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882811832	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882812584	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882813356	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882814187	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882814958	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882815661	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882816318	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882817017	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882817767	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882818457	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882819197	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882819882	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882820605	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882821350	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538882822272	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883053824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Oh0W5lbjgsXN"
+1538883055939	Marionette	INFO	Listening on port 43481
+1538883056042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538883056125	Marionette	DEBUG	[2147483649] Frame script loaded
+1538883056131	Marionette	DEBUG	[2147483649] Frame script registered
+1538883056238	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538883056689	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538883058689	Marionette	INFO	Stopped listening on port 37633
+1538883062343	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/bucks-county-community-college/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538883063746	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/bucks-county-community-college/reviews/
+1538883064178	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538883064561	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538883064917	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538883065263	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883065554	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883065846	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883066172	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883066487	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883066783	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883067062	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883067335	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883067629	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883067960	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883068292	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883068624	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883068938	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883069289	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883069579	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883069993	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883070390	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883614785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WW9SdAre9mXr"
+1538883617284	Marionette	INFO	Listening on port 40913
+1538883617308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538883617378	Marionette	DEBUG	[2147483649] Frame script loaded
+1538883617385	Marionette	DEBUG	[2147483649] Frame script registered
+1538883617414	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538883617967	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538883621918	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/bucks-county-community-college/reviews/
+1538883624133	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/bucks-county-community-college/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538883655996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VTKym47wkfX1"
+1538883658089	Marionette	INFO	Listening on port 46635
+1538883658112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538883658193	Marionette	DEBUG	[2147483649] Frame script loaded
+1538883658194	Marionette	DEBUG	[2147483649] Frame script registered
+1538883658259	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538883658967	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538883660123	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.niche.com/colleges/bucks-county-community-college/reviews/
+1538883660124	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1538883661980	Marionette	INFO	Stopped listening on port 43481
+1538883662636	Marionette	INFO	Stopped listening on port 40913
+1538883664307	Marionette	INFO	Stopped listening on port 46635
+1538883667953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.i0veI0RW8NYL"
+1538883670009	Marionette	INFO	Listening on port 41197
+1538883670087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538883670178	Marionette	DEBUG	[2147483649] Frame script loaded
+1538883670179	Marionette	DEBUG	[2147483649] Frame script registered
+1538883670246	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538883670726	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538883674533	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/bucks-county-community-college/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538883675687	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/bucks-county-community-college/reviews/
+1538883676597	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538883676935	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538883677341	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538883677693	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883677987	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883678321	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883678657	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883678928	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883679189	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883679475	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883679782	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883680087	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883680425	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883680739	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883681012	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883681360	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883681797	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883682320	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883682766	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883683159	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883746408	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PpdqKokaYvft"
+1538883748524	Marionette	INFO	Listening on port 33063
+1538883748617	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538883748680	Marionette	DEBUG	[2147483649] Frame script loaded
+1538883748692	Marionette	DEBUG	[2147483649] Frame script registered
+1538883748792	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538883749378	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538883755138	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/bucks-county-community-college/reviews/
+1538883756766	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/bucks-county-community-college/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538883758155	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538883759299	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1538883759313	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538883760490	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883761461	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883762625	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883763468	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883764630	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883765775	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883766478	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883767681	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883768488	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883769491	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883770520	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883771719	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883772567	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883773568	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883774653	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883775887	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883776725	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883777897	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538883778421	Marionette	INFO	Stopped listening on port 33063
+[Parent 26311, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538884519298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JAbn0z7ch1W4"
+1538884521500	Marionette	INFO	Listening on port 40231
+1538884521522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538884521600	Marionette	DEBUG	[2147483649] Frame script loaded
+1538884521602	Marionette	DEBUG	[2147483649] Frame script registered
+1538884521648	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538884522254	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538884529093	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/bucks-county-community-college/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538884531889	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/bucks-county-community-college/reviews/
+1538884532823	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538884612777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6cbZdm8XchoW"
+1538884614925	Marionette	INFO	Listening on port 38575
+1538884615002	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538884615084	Marionette	DEBUG	[2147483649] Frame script loaded
+1538884615090	Marionette	DEBUG	[2147483649] Frame script registered
+1538884615138	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538884615607	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+[Parent 26681, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538884617963	Marionette	INFO	Stopped listening on port 40231
+1538884619472	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/bucks-county-community-college/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538884621201	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/bucks-county-community-college/reviews/
+1538884622172	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538884623153	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538884624015	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538884624795	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538884625486	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538884626206	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538884627019	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538884627766	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538884628589	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538884629556	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538884630347	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538884631104	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538884631868	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538884632631	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538884633440	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538884634256	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538884635054	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538884635846	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538884636196	Marionette	INFO	Stopped listening on port 41197
+1538884637016	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538884638027	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538884638643	Marionette	INFO	Stopped listening on port 38575
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1538909025868	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bxWjanbKgfvi"
+1538909027876	Marionette	INFO	Listening on port 46003
+1538909028001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538909028071	Marionette	DEBUG	[2147483649] Frame script loaded
+1538909028084	Marionette	DEBUG	[2147483649] Frame script registered
+1538909028140	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538909028732	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1538909034695	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.niche.com/colleges/bucks-county-community-college/reviews/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538909036561	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.niche.com/colleges/bucks-county-community-college/reviews/
+1538909037469	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538909038244	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-962992856, line 74: unreachable code after return statement
+1538909039028	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538909039726	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538909040520	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538909041385	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538909042426	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538909043342	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538909044141	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538909044956	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538909045717	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538909046470	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538909047291	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538909048127	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538909048991	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538909049767	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538909050560	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538909051564	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538909052579	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538909053417	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538909053955	Marionette	INFO	Stopped listening on port 46003
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
